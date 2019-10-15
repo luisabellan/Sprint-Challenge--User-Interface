@@ -1,3 +1,5 @@
+Full Name: Jesus Luis Abellan Matilla
+Display Name: Luis Abellan
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
@@ -34,13 +36,24 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    Semantic HTML tags provide meaning to the browser and they are better for SEO.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+    An with display:block will ocupy the whole width so it will not allow another element to be to its right side, while display:inline will.
+
 3. What are the 4 areas of the box model?
+    
+    content, padding, border, margin.
+    
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    The cross-axis.
+
 5. Explain why git is valuable to a team of developers.
+
+    It keeps track of changes being made to the code, allows teams to work collaboratively and serves as a repository for software.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
